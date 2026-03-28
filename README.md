@@ -29,7 +29,7 @@ To simulate and analyze a phishing email attack using a controlled lab environme
 ## 🚨 Indicators of Compromise
 
 * Email: [it.adminsupport2@gmail.com](mailto:it.adminsupport2@gmail.com)
-* URL: http://213.209.159.159/login
+* URL: http://213.209.159.159/google-login
 * IP: 213.209.159.159
 
 ## 🔍 Key Findings
