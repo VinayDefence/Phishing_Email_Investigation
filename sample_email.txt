@@ -2,12 +2,13 @@ Subject: Critical Security Update Required
 
 Dear User,
 
-We detected that your Google services are outdated.
+We detected unusual activity in your account.
 
-Click below to update your account:
-http://192.168.0.200/login
+Please verify your account immediately:
+http://213.209.159.159/google-login
 
-Failure to update may result in account suspension.
+Failure to do so may result in account suspension.
 
 Regards,
 Google Security Team
+
