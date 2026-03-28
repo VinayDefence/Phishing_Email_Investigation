@@ -15,3 +15,4 @@
 ## Notes
 
 The IP-based URL is a strong indicator of suspicious activity.
+!["VirusTotal"](screenshot/virustotal.png)
