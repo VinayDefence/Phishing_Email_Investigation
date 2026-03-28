@@ -1,4 +1,6 @@
 # Phishing Email Investigation Lab
+![SOC](https://img.shields.io/badge/SOC-Wazuh-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 ## 📌 Objective
 
@@ -45,5 +47,19 @@ The email was identified as a phishing attempt based on multiple indicators and 
 
 ## 📸 Evidence
 
-Screenshots are available in the `/screenshots` folder.
+### 📧 Email Received
+
+![Email Received](screenshot/email_received.png)
+
+### 🔗 Email Content
+
+![Email Content](screenshot/email_content.png)
+
+### 🌐 VirusTotal Analysis
+
 ![VirusTotal](screenshot/virustotal.png)
+
+### 📑 Header Analysis
+
+![Header Analysis](screenshots/header_analysis.png)
+
