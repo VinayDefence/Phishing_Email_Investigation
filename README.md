@@ -46,3 +46,4 @@ The email was identified as a phishing attempt based on multiple indicators and 
 ## 📸 Evidence
 
 Screenshots are available in the `/screenshots` folder.
+![VirusTotal](screenshot/virustotal.png)
