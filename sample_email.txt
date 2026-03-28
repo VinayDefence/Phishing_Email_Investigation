@@ -1,0 +1,13 @@
+Subject: Critical Security Update Required
+
+Dear User,
+
+We detected that your Google services are outdated.
+
+Click below to update your account:
+http://192.168.0.200/login
+
+Failure to update may result in account suspension.
+
+Regards,
+Google Security Team
