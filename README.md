@@ -1,6 +1,17 @@
-# Phishing Email Investigation Lab
-![SOC](https://img.shields.io/badge/SOC-Wazuh-blue)
-![Status](https://img.shields.io/badge/Status-Completed-green)
+# 🎣 Phishing Email Investigation Lab
+![Attack](https://img.shields.io/badge/Attack-Phishing-red)
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+![Protocol](https://img.shields.io/badge/Protocol-SMTP-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=600&lines=Phishing+Email+Investigation;SMTP+Email+Simulation;SOC+Analysis+Project" />
+</p>
+
+<p align="center">
+  <img src="https://threatcop.com/blog/wp-content/uploads/2022/05/phishing-phisher.gif" width="550"/>
+</p>
 
 ## 📌 Objective
 
@@ -61,5 +72,5 @@ The email was identified as a phishing attempt based on multiple indicators and 
 
 ### 📑 Header Analysis
 
-![Header Analysis](screenshots/header_analysis.png)
+![Header Analysis](screenshot/header_analysis.png)
 
