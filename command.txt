@@ -1,0 +1,75 @@
+# Run Commands – Phishing Email Investigation Lab
+
+## 📌 Step 1: Navigate to Project Directory
+
+cd Phishing_Email_Investigation
+
+---
+
+## 📌 Step 2: Check Python Version
+
+python3 --version
+
+---
+
+## 📌 Step 3: Install Required Modules (if needed)
+
+pip install --upgrade pip
+
+---
+
+## 📌 Step 4: Edit Script
+
+Open send_mail.py and update:
+
+* sender email
+* receiver email
+* app password
+
+Example:
+sender = "[your_email@gmail.com](mailto:your_email@gmail.com)"
+receiver = "[target_email@gmail.com](mailto:target_email@gmail.com)"
+password = "your_app_password"
+
+---
+
+## 📌 Step 5: Run the Script
+
+python3 send_mail.py
+
+---
+
+## 📌 Step 6: Verify Output
+
+* Check terminal for:
+  "Email sent successfully"
+
+---
+
+## 📌 Step 7: Check Victim Inbox
+
+* Open Gmail on victim machine
+* Verify email received
+
+---
+
+## 📌 Step 8: Analyze Email
+
+* Open email
+* Inspect link and content
+* Perform header analysis
+
+---
+
+## 📌 Notes
+
+* Ensure internet connection is active
+* Gmail App Password must be used (not normal password)
+* Allow “Less secure apps” is not required if using App Password
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for educational and ethical testing purposes only.
+Do not use in real-world environments without proper authorization.
