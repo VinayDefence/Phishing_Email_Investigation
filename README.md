@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://threatcop.com/blog/wp-content/uploads/2022/05/phishing-phisher.gif" width="550"/>
+  <img src="https://threatcop.com/blog/wp-content/uploads/2022/05/phishing-phisher.gif" width="560"/>
 </p>
 
 ## 📌 Objective
